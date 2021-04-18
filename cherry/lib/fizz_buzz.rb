@@ -17,3 +17,7 @@ puts fizz_buzz(4)
 puts fizz_buzz(5)
 puts fizz_buzz(6)
 puts fizz_buzz(15)
+
+input = gets.to_i
+
+puts fizz_buzz(input)
